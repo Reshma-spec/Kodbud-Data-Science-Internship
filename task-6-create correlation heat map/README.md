@@ -1,0 +1,1 @@
+This project demonstrates how correlation heatmaps can be used to identify relationships between variables. The analysis revealed strong positive correlations among Math, Reading, and Writing scores, providing valuable insights into student academic performance.
